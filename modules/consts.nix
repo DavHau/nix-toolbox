@@ -1,0 +1,21 @@
+{
+  ...
+}:
+{
+  depNames = [
+    "propagatedBuildInputs"
+    "buildInputs"
+    "depsBuildBuild"
+    "depsBuildBuildPropagated"
+    "nativeBuildInputs"
+    "propagatedNativeBuildInputs"
+    "depsBuildTarget"
+    "depsBuildTargetPropagated"
+    "depsHostHost"
+    "depsHostHostPropagated"
+    "depsTargetTarget"
+    "depsTargetTargetPropagated"
+    "checkInputs"
+    "installCheckInputs"
+  ];
+}
